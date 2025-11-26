@@ -1,0 +1,2 @@
+# sentiment-alalysisn-ai-for-customer-feedback-charts-with-matplotlib-
+A lightweight sentiment analysis tool that helps you understand customer feedback quickly. This project collects user-entered feedback, analyzes sentiment using TextBlob, classifies responses as positive/negative/neutral, and generates a visual breakdown. Ideal for beginners exploring NLP, sentiment classification, and data visualization in Python.
